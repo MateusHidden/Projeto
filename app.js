@@ -24,7 +24,7 @@ const gabarito = {
   "Odontologia": ["A","A","B","E","E","A","A","D","E","A"],
   "Pedagogia": ["C","C","C","B","B","C","C","A","C","C"],
   "Psicologia": ["E","E","E","C","C","E","E","B","A","D"],
-  "Ciencias da Computacao": ["D","D","A","D","D","D","D","C","D","E"],
+  "Ciencias da Computação": ["D","D","A","D","D","D","D","C","D","E"],
   "Direito": ["B","B","D","A","A","B","B","E","B","B"]
 };
 
